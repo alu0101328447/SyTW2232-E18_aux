@@ -27,6 +27,14 @@ Para realizar pruebas de uso de ramas, haremos una serie de ejercicios:
 * Guardar los cambios realizados en la rama y hacer commit:
 * Realizar merge de las ramas que hemos creado
 
+### **2.3. Pruebas con la aplicación bitnami**
+  Para esta tarea clonaremos la aplicación de bitnami que se despliega en Azure, fuera del repositorio E?? y copiaremos el código en nuestra rama desarrollo para aplicar cambios. Haremos pruebas de modificaciones con ramas distintas cada uno de los miembros del equipo: 
+
+* Modificamos algunos ficheros de código de la app desde la rama desarrollo y guardamos los cambios.
+* Hacemos función de la rama desarrollo en la rama doc para tener los ficheros de código modificados previamente y añadiremos algunos comentarios a ciertas funciones.
+* Por último hacemos una función de doc en la rama main, trayendo el código resultante comentado y realizamos un push al repositorio remoto.
+
+
 
 
 
